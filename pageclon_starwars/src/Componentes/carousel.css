@@ -1,0 +1,63 @@
+.carousel-container {
+    margin: auto;
+    width: 100vw;
+    max-width: 2000px;
+  }
+  .main-image-container {
+    max-height: 600px;
+  }
+  .main-content-image {
+    z-index: 0;
+  }
+  
+  .text-over-img-s1 {
+    width: 500px;
+    z-index: 1;
+    color: white;
+    font-size: 50px;
+  }
+  
+  .text-over-img-s1 p {
+    font-size: 20px;
+  }
+  
+  .top-left {
+    position: absolute;
+    top: 10vw;
+    left: 10vw;
+  }
+  
+  .top-right {
+    position: absolute;
+     top: 4vw;
+    right: 6vw;
+  }
+  
+  
+  .yellowButton {
+    width: 200px;
+    background-color: #f2c94c;
+    border-radius: 30px;
+    border: none;
+    color: #000000;
+    padding: 13px 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .blackButton {
+    width: 200px;
+    background-color: #000000;
+    border-radius: 30px;
+    border: 2px solid #f2c94c;
+    color: white;
+    padding: 13px 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
