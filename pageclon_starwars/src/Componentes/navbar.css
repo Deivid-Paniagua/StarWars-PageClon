@@ -1,0 +1,76 @@
+.mainNavbar{
+    background-color: black;
+    color : white;
+    padding-top: 1em;
+}
+.mainNavFooter{
+    background-color: #0a0b0b;
+    color : white;
+    font-size: 1em;
+    font-weight: bold;
+    padding-top: 1em;
+}
+
+
+.right_sec{
+    padding-right: 3em;
+    display: flex;
+    justify-content: right;
+}
+.right_sec a{
+    text-decoration: none;
+    color: white;
+
+    
+}
+.login_group{
+    padding-left: 1em;
+}
+
+.list{
+    padding-left: 3em;
+}
+
+.list i{
+    padding-right: 1em;
+    color:white;
+}
+
+.sub_navbar{
+    margin: auto;
+    margin-top: 1em;
+    width: 50em;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.sub_navbar li{
+    
+    background-color: transparent;
+    color: gray;
+    border: none;
+    font-size: small;
+    font-weight: bold;
+}
+.sub_navbar li a{
+    color: gray;
+    text-decoration: none;
+}
+
+.sub_navbar a:hover{
+    color: white;
+}
+
+.logoNavbar{
+    width: 20em;
+    height: 8em;
+    padding-left: 3em;
+}
+
+.mainNavbar li{
+    font-size: 1em;
+}
+.mainNavbar i{
+    font-size: 1.6em;
+    color:white;
+}
